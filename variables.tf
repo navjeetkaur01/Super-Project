@@ -1,6 +1,6 @@
 variable "aws_region" {
   description = "AWS region"
-  default = "us-east-2"
+  default = "ca-central-1"
 }
 
 variable "aws_type" {
